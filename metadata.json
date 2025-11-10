@@ -1,0 +1,5 @@
+{
+  "name": "watermark",
+  "description": "An interactive web application to add customizable text watermarks to your images. Upload up to 5 images, adjust text, color, size, opacity, and position, then download your creations.",
+  "requestFramePermissions": []
+}
